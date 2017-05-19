@@ -14,4 +14,3 @@ You can find the source code for Jekyll at
 {% include icon-github.html username="jekyll" %} /
 [jekyll](https://github.com/jekyll/jekyll)
 
-<span class="test">{{ page.url | relative_url }}</span>
